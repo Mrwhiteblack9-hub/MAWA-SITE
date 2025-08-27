@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "MAWA",
+    "about": "关于",
+    "tokenomics": "代币经济学",
+    "roadmap": "路线图",
+    "buy": "购买"
+  },
+  "hero": {
+    "tag": "严肃的模因币",
+    "title_parts": ["力量","优雅","社区"],
+    "description": "MAWA 是在 Solana 上的模因币，拥有鳄鱼吉祥物、高端品牌与长期愿景。",
+    "buy_button": "在 Jupiter 上购买",
+    "tokenomics_btn": "代币经济学",
+    "contract_label": "SPL 合约",
+    "contract_value": "SOON...",
+    "banner_alt": "MAWA 横幅"
+  },
+  "about": {
+    "vision_title": "愿景",
+    "vision_text": "MAWA 将模因文化与专业执行相结合。强烈身份、流动性锁定与透明的代币经济学。"
+  },
+  "howtobuy": {
+    "title": "购买方式",
+    "steps": [
+      "安装 Solana 钱包（Phantom）。",
+      "获取 SOL 并连接到 Jupiter。",
+      "在 Jupiter 上将 SOL 兑换为 MAWA：在 Jupiter 购买。"
+    ]
+  },
+  "tokenomics": {
+    "title": "代币经济学",
+    "distribution_title": "分配",
+    "percentages": {
+      "liquidity": "78%",
+      "vested": "2%",
+      "migrating": "20%"
+    },
+    "params_title": "MAWA 代币参数",
+    "params": {
+      "supply": "总量：1,000,000,000",
+      "decimals": "小数位：9",
+      "mint": "铸造权限：已撤销",
+      "lock": "流动性锁定：12 个月",
+      "tax": "税率：2%"
+    }
+  },
+  "roadmap": {
+    "title": "MAWA 路线图",
+    "phases": {
+      "1": {"title":"阶段 1：基础","status":"已完成","desc":"高端品牌，网站已上线，初始社区。"},
+      "2": {"title":"阶段 2：社区增长","status":"进行中","desc":"社交扩展，参与度提升。"},
+      "3": {"title":"阶段 3：Jupiter 启动","status":"计划 • 2025-09-13","desc":"在 Jupiter 上正式启动，提供初始流动性。"},
+      "4": {"title":"阶段 4：DEX 扩展","status":"计划中","desc":"在主要 Solana DEX 上上市。"},
+      "5": {"title":"阶段 5：CEX 上市","status":"计划中","desc":"中心化交易所上市。"},
+      "6": {"title":"阶段 6：生态系统开发","status":"计划中","desc":"商品、NFT、奖励。"}
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      {"q":"为什么选择 MAWA？","a":"MAWA 以高端品牌、长期愿景、12 个月锁仓的流动性和透明的代币经济学脱颖而出。"},
+      {"q":"为什么是鳄鱼？","a":"鳄鱼象征着韧性、耐心和力量。"},
+      {"q":"什么时候上线？","a":"官方上线计划为 2025 年 9 月 13 日。关注社交媒体以获取确切时间。"},
+      {"q":"流动性是否锁定？","a":"是的 — 锁定 12 个月，并可链上验证。"},
+      {"q":"如何加入？","a":"在 X/Twitter 和 Telegram 上加入我们。"},
+      {"q":"代币经济学 & 费用？","a":"总量 1,000,000,000。分配：流动性 78%，锁仓 2%，迁移 20%。税：2%。"}
+    ]
+  },
+  "social": {
+    "join": "加入社区",
+    "twitter": "X / 推特",
+    "telegram": "Telegram"
+  },
+  "footer": {
+    "copyright": "© 2025 MAWA — Not financial advice"
+  }
+}

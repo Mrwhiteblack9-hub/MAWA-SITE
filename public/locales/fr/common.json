@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "MAWA",
+    "about": "À propos",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Roadmap",
+    "buy": "Acheter"
+  },
+  "hero": {
+    "tag": "Mêmecoin sérieux",
+    "title_parts": ["Force","Élégance","Communauté"],
+    "description": "MAWA est un memecoin sur Solana avec une mascotte crocodile, branding premium et vision long terme.",
+    "buy_button": "Acheter sur Jupiter",
+    "tokenomics_btn": "Tokenomics",
+    "contract_label": "Contrat SPL",
+    "contract_value": "SOON...",
+    "banner_alt": "Bannière MAWA"
+  },
+  "about": {
+    "vision_title": "Vision",
+    "vision_text": "MAWA combine culture memecoin et exécution professionnelle. Identité forte, liquidité verrouillée et tokenomics transparents."
+  },
+  "howtobuy": {
+    "title": "How to buy",
+    "steps": [
+      "Installez un wallet Solana (Phantom).",
+      "Obtenez des SOL et connectez-vous à Jupiter.",
+      "Échangez SOL contre MAWA sur Jupiter : Acheter sur Jupiter."
+    ]
+  },
+  "tokenomics": {
+    "title": "Tokenomics",
+    "distribution_title": "Distribution",
+    "percentages": {
+      "liquidity": "78%",
+      "vested": "2%",
+      "migrating": "20%"
+    },
+    "params_title": "Paramètres du token MAWA",
+    "params": {
+      "supply": "Supply : 1,000,000,000",
+      "decimals": "Decimals : 9",
+      "mint": "Autorité de mint : révoquée",
+      "lock": "LP lock : 12 months",
+      "tax": "Taxe : 2%"
+    }
+  },
+  "roadmap": {
+    "title": "Le parcours MAWA",
+    "phases": {
+      "1": {"title":"Phase 1 : Fondation","status":"COMPLETED","desc":"Branding premium, site lancé, communauté initiale."},
+      "2": {"title":"Phase 2 : Croissance Communauté","status":"IN PROGRESS","desc":"Expansion sociale, engagement."},
+      "3": {"title":"Phase 3 : Lancement Jupiter","status":"PLANNED • 2025-09-13","desc":"Lancement officiel sur Jupiter, liquidité initiale."},
+      "4": {"title":"Phase 4 : Expansion DEX","status":"PLANNED","desc":"Listages sur principaux DEX Solana."},
+      "5": {"title":"Phase 5 : Listages CEX","status":"PLANNED","desc":"Listages sur exchanges centralisés."},
+      "6": {"title":"Phase 6 : Développement Ecosystème","status":"PLANNED","desc":"Merch, NFTs, récompenses."}
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {"q":"Pourquoi choisir MAWA ?","a":"MAWA se distingue par son branding premium, vision long terme, liquidité verrouillée (12 mois) et tokenomics transparents."},
+      {"q":"Pourquoi un crocodile ?","a":"Les crocodiles symbolisent résilience, patience et force."},
+      {"q":"Quand est le lancement ?","a":"Lancement prévu le 13 septembre 2025. Suivez les réseaux pour l'heure exacte."},
+      {"q":"La liquidité est-elle verrouillée ?","a":"Oui — verrouillée 12 mois avec preuve on-chain."},
+      {"q":"Comment rejoindre ?","a":"Rejoignez-nous sur X/Twitter et Telegram."},
+      {"q":"Tokenomics & frais ?","a":"Supply 1,000,000,000. Distribution : Liquidité 78%, Vested 2%, Migration 20%. Taxe : 2%."}
+    ]
+  },
+  "social": {
+    "join": "Rejoindre la communauté",
+    "twitter": "X / Twitter",
+    "telegram": "Telegram"
+  },
+  "footer": {
+    "copyright": "© 2025 MAWA — Not financial advice"
+  }
+}
